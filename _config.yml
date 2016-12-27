@@ -1,5 +1,5 @@
 
-title: Rajanand''s Resume
+title: Rajanand's Resume
 url: 'http://rajanand.org'
 baseurl: '/cv' #change it according to your repository name
 
@@ -21,6 +21,6 @@ tagline: Data warehouse and Business Intelligence developer.
 email: hello@rajanand.org
 #phone: 012 345 6789
 website: rajanand.org #do not add http://
-linkedin: iRajanand
+linkedin: irajanand
 github: rajanand
 twitter: '@iRajanand'
